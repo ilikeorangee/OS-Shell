@@ -1,6 +1,6 @@
 # OS-Shell
 
-Built an OS Shell based in C which is designed to support 5 commands which are defined below :
+Built an OS Shell based in C designed to support 5 commands which are defined below :
 
 * **help:** Displays all the commands
 * **quit:** Exits / terminates the shell with “Bye!”
